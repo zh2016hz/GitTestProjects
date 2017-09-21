@@ -10,6 +10,6 @@ public class C {
     private static final String TAG = "cccc";
 
     public static  void  gogogo(){
-        Log.e(TAG, "gogogo: ");
+        Log.e(TAG, "gogogo:ddddddddddddddddddddddddddd ");
     }
 }
