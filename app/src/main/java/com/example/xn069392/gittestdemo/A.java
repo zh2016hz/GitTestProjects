@@ -7,7 +7,7 @@ import android.util.Log;
  */
 
 public class A {
-    private static final String TAG = "ssss";
+    private static final String TAG = "ssssssssssssssssss";
 
     public static  void  gogogo(){
         Log.e(TAG, "gogogo: ");
