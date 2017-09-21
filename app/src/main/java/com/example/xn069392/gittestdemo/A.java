@@ -12,10 +12,4 @@ public class A {
     public static  void  gogogo(){
         Log.e(TAG, "gogogo: ");
     }
-    class CCCC{
-        public void  finish(){
-            for (int i = 0; i < 100; i++) {
-                Log.e("sss", "finish: "+i );
-            }
-        }
 }
