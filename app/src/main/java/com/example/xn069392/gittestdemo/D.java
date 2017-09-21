@@ -11,5 +11,8 @@ public class D {
 
     public static  void  gogogo(){
         Log.e(TAG, "gogogossssssssssssssssssssssssssssssssssssssssssssss ");
+        Log.e(TAG, "gogogossssssssssssssssssssssssssssssssssssssssssssss ");
+        Log.e(TAG, "gogogossssssssssssssssssssssssssssssssssssssssssssss ");
+        Log.e(TAG, "gogogossssssssssssssssssssssssssssssssssssssssssssss ");
     }
 }
