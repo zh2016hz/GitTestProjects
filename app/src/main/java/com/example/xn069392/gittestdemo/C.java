@@ -11,8 +11,5 @@ public class C {
 
     public static  void  gogogo(){
         Log.e(TAG, "gogogo:ddddddddddddddddddddddddddd ");
-        Log.e(TAG, "gogogo:ddddddddddddddddddddddddddd ");
-        Log.e(TAG, "gogogo:ddddddddddddddddddddddddddd ");
-        Log.e(TAG, "gogogo:ddddddddddddddddddddddddddd ");
     }
 }
